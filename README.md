@@ -1,8 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![flavorohomepage](https://github.com/prachidimote/flavoro-food-ordering-app/assets/81797753/8d581162-af77-43f6-9ea9-9b565bfeae8b)
+![additemmsg](https://github.com/prachidimote/flavoro-food-ordering-app/assets/81797753/fa49186d-8f75-49b8-8f7b-23c9586d9611)
+![mycart](https://github.com/prachidimote/flavoro-food-ordering-app/assets/81797753/91449cb0-4190-413f-a2b1-c6a7db2f0a4f)
